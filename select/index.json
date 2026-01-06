@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "New Asian",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-06T08:15:01.778120Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Asian (feat. Vingo & OZworld)",
+      "artist": "BAD HOP, Vingo, OZworld",
+      "has_synced": false,
+      "path": "select/pl_01_New_Asian_(feat._Vingo_&_OZworld)_BAD_HOP,_Vingo,_OZworld.txt"
+    }
+  ]
+}
